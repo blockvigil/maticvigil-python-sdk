@@ -1,0 +1,6 @@
+.pytest_cache/
+.python-version
+*.pyc
+.idea/
+.DS_Store
+maticvigil_sdk.egg-info
