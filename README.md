@@ -19,7 +19,7 @@ Follow the instructions sequentially from these steps detailed in the links belo
 	* [Recommended installation via downloadable binary](https://maticvigil.com/docs/cli_onboarding/#recommended-installation)
 	* [Advanced installation via pip installer](https://maticvigil.com/docs/cli_onboarding/#advanced-installation-via-pip)
 
-* [Generate a new MaticVigil invite code and complete signup on CLI](https://maticvigil.com/docs/cli_onboarding/#generate-a-new-maticvigil-invite-code-and-complete-signup-on-cli)
+* [Generate a new MaticVigil invite code and complete signup on CLI](https://maticvigil.com/docs/cli_onboarding/#-generate-a-new-maticvigil-invite-code-and-complete-signup-on-cli)
 
 This approach allows you to have control on your MaticVigil developer account from your command line itself without having to switch to the Web UI.
 
