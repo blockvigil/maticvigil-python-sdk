@@ -54,7 +54,7 @@ def generate_contract_function(**outer_kwargs):
                 request_url +=  '/' + arg
             request_url = request_url.rstrip('/')
             r = make_http_call(request_type='get', url=request_url)
-            return r['data'][0]
+            return r
         elif request_type == 'post':
             r = make_http_call(request_type='post', url=request_url, params=params_kwargs, headers={'X-API-KEY': self._api_write_key})
             txhash = r['data'][0]['txHash']
