@@ -18,7 +18,7 @@ install_requires = [
     'eth_account < 0.6',
     'eth_utils < 2',
     'requests < 2.28',
-    'tenacity <= 8',
+    'tenacity < 9',
     'tornado == 6.0.4',
     "solidity_parser",
     "antlr4-python3-runtime>=4.7,<4.8"
