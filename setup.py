@@ -17,7 +17,7 @@ install_requires = [
     'eth_abi == 2.0.0',
     'eth_account < 0.6',
     'eth_utils < 2',
-    'requests == 2.22.0',
+    'requests < 2.28',
     'tenacity <= 8',
     'tornado == 6.0.4',
     "solidity_parser",
