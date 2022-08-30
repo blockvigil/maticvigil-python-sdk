@@ -15,7 +15,7 @@ if PY_VER < (3, 5):
 
 install_requires = [
     'eth_abi == 2.0.0',
-    'eth_account == 0.4.0',
+    'eth_account == 0.5.9',
     'eth_utils == 1.9.0',
     'requests == 2.22.0',
     'tenacity == 6.1.0',
